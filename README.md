@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="/mnt/data/ecb00225-dd12-4309-ab65-26659f726120.png" alt="Operational Terminal" width="650">
+  <img src="ecb00225-dd12-4309-ab65-26659f726120.png.png" alt="Operational Terminal" width="650">
 </p>
 
 <blockquote>
