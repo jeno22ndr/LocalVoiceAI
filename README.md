@@ -223,5 +223,6 @@ LocalVoiceAI/
 <h2>📧 Contact</h2>
 
 <blockquote>
-<p>Project Link: https://github.com/YourUsername/LocalVoiceAI</p>
+<p>Email id: <a href="mailto:jeno22ndr@gmail.com">jeno22ndr@gmail.com</a></p>
+<p>Project Link: https://github.com/jeno22ndr/LocalVoiceAI</p>
 </blockquote>
